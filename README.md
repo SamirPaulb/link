@@ -33,12 +33,12 @@
 ## 💡 About the project
 
 This is an open source project that serves as a free alternative to the Linktree website.
-- [Demo](https://johnemerson1406.github.io/linktree)
+- [Demo 🚀 ](https://samirpaul1.github.io/link/)
 
 ## 🚀 Getting started
 
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
-[Download the ZIP from this location](https://github.com/JohnEmerson1406/linktree/archive/master.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/SamirPaul1/link/archive/master.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 ```bash
 git clone https://github.com/JohnEmerson1406/linktree
 ```
@@ -62,5 +62,8 @@ Once your pull request has been merged, you can delete your branch.
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
 
 ---
+Landing Page:
+![screenshot](https://raw.githubusercontent.com/SamirPaul1/link/main/Samir-Paul-All-Links.png)
 
-Made with ❤️ by John Emerson :wave: [Get in touch](https://johnemerson1406.github.io/linktree)
+
+Made with ❤️ by Samir Paul :wave: [Get in touch](https://www.linkedin.com/in/SamirPaul)
