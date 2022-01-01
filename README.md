@@ -42,4 +42,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) file for mo
 
 
 
-Made with ❤️ by Samir Paul :wave: [Get in touch](https://www.linkedin.com/in/SamirPaul)
+Made with ❤️ by @SamirPaul1 :wave: [Get in touch](https://www.linkedin.com/in/SamirPaul)
