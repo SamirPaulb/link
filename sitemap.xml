@@ -1,48 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://samirpaul1.github.io/link/</loc>
+	<loc>https://samirpaul1.github.io/</loc>
+	<lastmod>2022-07-13T14:07:48+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://samirpaul1.github.io</loc>
+	<loc>https://samirpaul1.github.io/music/</loc>
+	<lastmod>2022-07-13T14:07:48+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-<loc>https://www.linkedin.com/in/SamirPaul</loc>
+	<loc>https://samirpaul1.github.io/CodeforcesVisualizer/</loc>
+	<lastmod>2022-07-13T14:07:48+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-<loc>https://www.instagram.com/SamirPaulb</loc>
+	<loc>https://samirpaul1.github.io/MakeNotes/</loc>
+	<lastmod>2022-07-13T14:07:48+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-<loc>https://www.facebook.com/SamirPaulb</loc>
+	<loc>https://samirpaul1.github.io/WeatherApp/</loc>
+	<lastmod>2022-07-13T14:07:48+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-<loc>https://twitter.com/SamirPaulb</loc>
+	<loc>https://samirpaul1.github.io/txt-compressor/</loc>
+	<lastmod>2022-07-13T14:07:48+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-<loc>https://github.com/SamirPaul1</loc>
+	<loc>https://samirpaul1.github.io/txt-compressor/info.html</loc>
+	<lastmod>2022-07-13T14:07:48+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-<loc>https://leetcode.com/samirpaul1</loc>
-</url>
-<url>
-<loc>https://samirpaul1.medium.com/</loc>
-</url>
-<url>
-<loc>https://devfolio.co/@SamirPaul1</loc>
-</url>
-<url>
-<loc>https://www.reddit.com/user/SamirPaulb</loc>
-</url>
-<url>
-<loc>https://www.codechef.com/users/samirpaul1</loc>
-</url>
-<url>
-<loc>https://www.hackerrank.com/samirpaul1</loc>
-</url>
-<url>
-<loc>https://www.linkedin.com/in/SamirPaul</loc>
-</url>
-<url>
-<loc>https://samirpaul1.github.io/SamirPaul.jpg</loc>
+	<loc>https://samirpaul1.github.io/txt-compressor/index.html</loc>
+	<lastmod>2022-07-13T14:07:51+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 </urlset>
