@@ -5,21 +5,21 @@
 
 
 Landing Page:
-![screenshot](https://raw.githubusercontent.com/SamirPaul1/link/main/Samir-Paul-All-Links.png)
+![screenshot](https://raw.githubusercontent.com/SamirPaulb/link/main/Samir-Paul-All-Links.png)
 
 
 
 ## 💡 About the project
 
 This is an open source project that serves as a free alternative to the Linktree website.
-- [Demo 🚀 ](https://samirpaul1.github.io/link/)
+- [Demo 🚀 ](https://samirpaulb.github.io/link/)
 
 ## 🚀 Getting started
 
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
-[Download the ZIP from this location](https://github.com/SamirPaul1/link/archive/master.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/SamirPaulb/link/archive/master.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 ```bash
-git clone https://github.com/SamirPaul1/link
+git clone https://github.com/SamirPaulb/link
 ```
 - Once the files are on your machine, open the _linktree_ folder in [Visual Studio Code](https://code.visualstudio.com/).
 - With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
@@ -42,4 +42,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) file for mo
 
 
 
-Made with ❤️ by [@SamirPaul1](https://github.com/SamirPaul1) :wave: [Get in touch](https://www.linkedin.com/in/SamirPaul)
+Made with ❤️ by [@SamirPaulb](https://github.com/SamirPaulb) :wave: [Get in touch](https://www.linkedin.com/in/SamirPaul)
